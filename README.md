@@ -6,4 +6,5 @@ your assistant
 
 #it can be fetch information from wikipedia when you speak or write "about "
 #it can be resolve mathamatics chemistry from wolframalpha
-
+#when you run assistant.py this window will be open and you see image are rotating
+![Screenshot (8)](https://user-images.githubusercontent.com/56151722/94779086-f5216c80-03e3-11eb-83bf-cf6812be2310.png)
