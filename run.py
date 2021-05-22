@@ -21,12 +21,12 @@ root = Tk()
 root.geometry('520x650')
 root.title('Prince Margaret Personal assistant')
 
-root.iconbitmap("Microphone_icon.ico")
+root.iconbitmap("./static/Microphone_icon.ico")
 
 style = ttk.Style()
 style.theme_use('winnative')
 
-logo=gif.AnimatedGIF(root, 'earth.gif')
+logo=gif.AnimatedGIF(root, './static/earth.gif')
 logo.pack()
 
 
@@ -54,7 +54,7 @@ btn2 = StringVar()
 
 a=0
 
-photo = PhotoImage(file='microphone.png').subsample(20, 20)
+photo = PhotoImage(file='./static/microphone.png').subsample(20, 20)
 
 def chrome(question):
       url=next(search(question))
@@ -289,7 +289,7 @@ def get(event):
 def microphone():
     
     mixer.init()
-    mixer.music.load('alart_sound.mp3')
+    mixer.music.load('./static/alart_sound.mp3')
     mixer.music.play()
 
     # enter the name of usb microphone that you found
