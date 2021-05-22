@@ -1,4 +1,4 @@
-import gif
+from static import gif
 import wikipedia
 import wolframalpha
 import requests
