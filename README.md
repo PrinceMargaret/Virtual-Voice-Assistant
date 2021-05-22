@@ -4,7 +4,7 @@
 # Personal Voice Assitant
  
 Folow these steps to run this project 
-##open CMD or Terminal and RUN all command step by step.
+##open CMD or Terminal and RUN all command step by step.##
 
 * First clone the project, open your terminal and enter the command
 
