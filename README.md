@@ -3,7 +3,7 @@
 ![Screenshot (8)](https://user-images.githubusercontent.com/56151722/94779086-f5216c80-03e3-11eb-83bf-cf6812be2310.png)
 # Personal Voice Assitant
  
-Folow these steps to run tis project.
+Folow these steps to run tish project.
 
 * First clone the project, open your terminal and enter the command
 
