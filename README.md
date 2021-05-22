@@ -2,7 +2,7 @@
 
 ![Screenshot (8)](https://user-images.githubusercontent.com/56151722/94779086-f5216c80-03e3-11eb-83bf-cf6812be2310.png)
 # Paytm-Python-Django (For python 3)
-Paytm-Payment Gateway Example On Python-Django
+Personal Voice Assitant
 
 * First clone the project, open your terminal and enter the command
 
