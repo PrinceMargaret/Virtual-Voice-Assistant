@@ -21,7 +21,7 @@ env\Scripts\activate
 ```
 * Now enter into the project folder
 ```javascript
-cd paytm-django/payments/
+cd Personal-Voice-Assistant
 ```
 * Now install the requirements 
 ```javascript
