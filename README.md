@@ -11,6 +11,11 @@ Folow these steps to run this project
 ```javascript
 git clone https://github.com/PrinceMargaret/Personal-Voice-Assistant.git
 ```
+* Install virtualenv package
+```javascript
+pip install virtualenv
+```
+
 * Now create a virtual environment
 ```javascript
 virtualenv env
