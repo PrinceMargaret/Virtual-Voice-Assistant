@@ -15,10 +15,16 @@ git clone https://github.com/PrinceMargaret/Personal-Voice-Assistant.git
 ```javascript
 virtualenv env
 ```
-* Now activate the virtual environment
+* Now activate the virtual environment in Windows
 ```javascript
 env\Scripts\activate
 ```
+
+* Now activate the virtual environment in linux
+```javascript
+source env/bin/activate
+```
+
 * Now enter into the project folder
 ```javascript
 cd Personal-Voice-Assistant
